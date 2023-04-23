@@ -1,2 +1,2 @@
 # my_fitness_app
-thia a simple app that allows for updating workout, food, etc.
+this is a simple app that allows for updating workout, food, etc.
